@@ -1,3 +1,6 @@
 Alteração proposital
-Criando Usuário
+e
+Alteração proposital 2
 
+Criando Usuário
+>>>>>>> usuario2
